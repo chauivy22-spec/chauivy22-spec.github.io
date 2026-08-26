@@ -68,23 +68,23 @@ kramdown:
 # -------------------------
 # Content collections
 # -------------------------
-# Collections are groups of content stored in special folders.
-# Example:
-# _publications -> publications
-# _portfolio    -> portfolio
+
+# -------------------------
+# Default page settings
+# -------------------------
 collections:
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
-defaults:
     permalink: /:collection/:path/
 
 # -------------------------
 # Default page settings
 # -------------------------
 # These defaults avoid repeating the same settings in every page file.
+defaults:
   - scope:
       path: ""
       type: pages
@@ -123,6 +123,6 @@ timezone: "Etc/UTC"               # Site timezone used by Jekyll when processing
 # Only keep plugins that are safe for GitHub Pages.
 plugins:
   - jekyll-feed            # Generates an RSS/Atom feed
-  - jekyll-sitemap         # Generates sitemap.x - ml for search engines
+  - jekyll-sitemap         # Generates sitemap.xml for search engines
   - jekyll-remote-theme
   
