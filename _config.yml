@@ -7,9 +7,9 @@
 locale: "en-US"            # Main language/locale of the site
 remote_theme: "academicpages/academicpages.github.io"
 
-title: "Chau Ngo | Marketing & Data Science"
+title: "Ngoc Chau Ngo | Marketing & Data Science"
 title_separator: "-"
-name: "Chau Ngo"
+name: "Ngoc Chau Ngo"
 description: "Marketing professional pursuing a Master of Data Science, with a background in digital advertising, marketing automation, and analytics"
 
 # -------------------------
@@ -34,17 +34,15 @@ repository: "chauivy22-spec/chauivy22-spec.github.io"
 # -------------------------
 author:
   avatar: "digital-photo-bbf46f113f.jpeg"   # replace this file in images/ with your own photo later
-  name: "Chau Ngo"
-  bio: "Master of Data Science student at University of Houston-Clear Lake. Background in marketing, digital advertising, and marketing automation, with growing focus on analytics and data-driven decision making."
+  name: "Ngoc Chau Ngo"
+  bio: "Master of Data Science student at University of Houston-Clear Lake. Background in marketing, digital advertising, and marketing automation, with growing focus on analytics and data-driven decision-making."
   location: "Houston, TX"
-  employer: "University of Houston-Clear Lake"
   email: "chauivy22@gmail.com"
 
   # Professional / academic links
-  googlescholar: ""
   github: "chauivy22-spec"
-  linkedin: "www.linkedin.com/in/chauivy-ngo/"
-  orcid: ""
+  linkedin: "www.linkedin.com/in/chauivy-ngo"
+
 
 # -------------------------
 # General behavior
