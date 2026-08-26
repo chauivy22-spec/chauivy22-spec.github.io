@@ -17,7 +17,8 @@ description: "Academic portfolio and research in data science and machine learni
 # -------------------------
 # For a user site, url should match:
 # https://yourusername.github.io
-url: "https://chauivy22.github.io"
+url: "https://chauivy22-spec.github.io"
+
 
 # Leave baseurl empty for a user site repository named:
 # yourusername.github.io
@@ -26,7 +27,7 @@ baseurl: ""
 
 # Must match the GitHub repository path exactly:
 # username/repository-name
-repository: "chauivy22/chauivy22.github.io"
+repository: "chauivy22-spec/chauivy22-spec.github.io"
 
 # -------------------------
 # Author profile information
