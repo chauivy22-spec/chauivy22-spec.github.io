@@ -5,12 +5,12 @@
 # Site identity
 # -------------------------
 locale: "en-US"            # Main language/locale of the site
-site_theme: "default"      # Theme skin used by the site
+remote_theme: "academicpages/academicpages.github.io"
 
-title: "Lijing Zhu | Data Science & ML Research"   # Text shown in browser tab and SEO metadata
-title_separator: "-"       # Separator used in page titles
-name: "Lijing Zhu"         # Main name shown across the site
-description: "Academic portfolio and research in data science and machine learning"  # Short site description for search engines
+title: "Chau Ngo | Marketing & Data Science"
+title_separator: "-"
+name: "Chau Ngo"
+description: "Marketing professional pursuing a Master of Data Science, with a background in digital advertising, marketing automation, and analytics"
 
 # -------------------------
 # GitHub Pages repository settings
@@ -33,19 +33,18 @@ repository: "chauivy22-spec/chauivy22-spec.github.io"
 # Author profile information
 # -------------------------
 author:
-  avatar: "digital-photo-bbf46f113f.jpeg"    # Profile image file shown in the sidebar/profile area
-  name: "Lijing Zhu"
-  bio: "Assistant professor at University of Houston-Clear Lake. Ph.D. in Data Science from Bowling Green State University. Research focus on machine learning and graph-based deep learning."
-  location: "TX"
+  avatar: "digital-photo-bbf46f113f.jpeg"   # replace this file in images/ with your own photo later
+  name: "Chau Ngo"
+  bio: "Master of Data Science student at University of Houston-Clear Lake. Background in marketing, digital advertising, and marketing automation, with growing focus on analytics and data-driven decision making."
+  location: "Houston, TX"
   employer: "University of Houston-Clear Lake"
-  email: "zhul@uhcl.edu"
+  email: "chauivy22@gmail.com"
 
   # Professional / academic links
-  # Leave a field empty if it is not used.
-  googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
-  github: "lijingzhu1"
-  linkedin: "www.linkedin.com/in/lijingz-19970620"
-  orcid: "https://orcid.org/0009-0002-7107-2880"
+  googlescholar: ""
+  github: "chauivy22-spec"
+  linkedin: "www.linkedin.com/in/chauivy-ngo/"
+  orcid: ""
 
 # -------------------------
 # General behavior
@@ -79,13 +78,13 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
+defaults:
     permalink: /:collection/:path/
 
 # -------------------------
 # Default page settings
 # -------------------------
 # These defaults avoid repeating the same settings in every page file.
-defaults:
   - scope:
       path: ""
       type: pages
@@ -124,4 +123,6 @@ timezone: "Etc/UTC"               # Site timezone used by Jekyll when processing
 # Only keep plugins that are safe for GitHub Pages.
 plugins:
   - jekyll-feed            # Generates an RSS/Atom feed
-  - jekyll-sitemap         # Generates sitemap.xml for search engines
+  - jekyll-sitemap         # Generates sitemap.x - ml for search engines
+  - jekyll-remote-theme
+  
