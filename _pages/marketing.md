@@ -1,10 +1,9 @@
 ---
 permalink: /marketing porfolio/
-title: "Marketing Portfolio"
 author_profile: true
 ---
 
-![Portfolio cover](/images/Marketing%20portfolio%20(5).png)
+![Portfolio cover](/images/Marketing%20portfolio%20(4).png)
 
 ## Council of International Programs — Marketing Intern
 
