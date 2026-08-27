@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About Me"
+title: "👋 About Me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-## 👋 About Me
-
 I'm a **Master of Data Science student at the University of Houston-Clear Lake**, expected to graduate in **December 2026**, with a **BBA in Marketing from Loyola University Chicago**.
 
 My background combines **digital marketing, marketing analytics, marketing automation, and paid advertising**. I've worked across the U.S. and Vietnam on content strategy, campaign performance, customer engagement, and marketing operations.
