@@ -1,84 +1,36 @@
 ---
-permalink: /teaching/
-title: "Teaching"
+permalink: /marketing porfolio/
+title: "Marketing Portfolio"
 author_profile: true
 ---
 
+[📄 Download my full Marketing Portfolio (PDF)](/files/Marketing_portfolio.pdf)
 
-I teach courses in data science, machine learning, databases, and data visualization at the [University of Houston-Clear Lake](https://www.uhcl.edu/). My teaching emphasizes clear concepts, practical problem solving, and hands-on use of computational tools for real-world data analysis.
+## Council of International Programs — Marketing Intern
 
-The course information below summarizes recent and upcoming teaching assignments.
+During my time as a Marketing Intern at the Council of International Programs Chicago, I crafted email marketing campaigns and designed promotional materials for events, helping increase engagement and visibility for the organization.
 
-## Summer 2026
+## EQL. Apparel — Marketing Assistant
 
-### DASC 5431-21: Data Ana. & Mach. Learning (Lecture)
+While working as a Marketing Assistant for the fashion brand EQL.Apparel, I designed advertising materials and tested them on Facebook and TikTok, regularly refining designs to align with audience preferences.
 
-- **Class Number:** 18298
-- **Days & Time:** MoWeTh 12:00 PM - 2:59 PM
-- **Room:** Delta Building 203
-- **Dates:** June 1, 2026 - July 2, 2026
-- **Enrollment:** Unknow
-  
-## Spring 2026
+**What I learned:** Fashion moves fast. This role taught me how to read what an audience responds to and quickly adjust creatives based on that feedback — testing showed that what looks good isn't always what performs well, and data should drive the next design decision.
 
-### DASC 5231-01: Data Visualization (Lecture)
+## Office of Jason T. Hyman — Marketing Intern
 
-- **Class Number:** 26503
-- **Days & Time:** Monday 1:00 PM - 3:50 PM
-- **Room:** Delta Building 136
-- **Dates:** January 12, 2026 - May 7, 2026
-- **Enrollment:** 26
+I helped create media templates and branded advertising materials for the firm's social media platforms using Canva, designing promotional and informational ad content while refining visuals based on audience engagement and branding goals. I also assisted with a video content series — creating templates, editing short-form videos, and organizing content schedules.
 
-### DASC 5431-01: Data Ana. & Mach. Learning (Lecture)
+**What I learned:** Real estate marketing is all about trust. I learned how to build brand consistency across social media, and how powerful short-form storytelling is — even a 30-second clip can build a real connection with an audience.
 
-- **Class Number:** 25394
-- **Days & Time:** Tuesday 4:00 PM - 6:50 PM
-- **Room:** Delta Building D214
-- **Dates:** January 12, 2026 - May 7, 2026
-- **Enrollment:** 12
+## BlueByrd — Marketing Intern + Assistant
 
-### DASC 5931-01: Research Topics in Data Science (Independent Study)
+Developed and managed LinkedIn marketing content, including copywriting and content scheduling, to maintain consistent brand messaging and improve audience engagement. Built and managed email campaigns in HubSpot — setting up workflows, organizing contacts, and supporting lead nurturing — and used ZoomInfo to support lead targeting and outreach.
 
-- **Class Number:** 26504
-- **Days & Time:** Wednesday 1:00 PM - 3:50 PM
-- **Room:** Delta Building 237
-- **Dates:** January 12, 2026 - May 7, 2026
-- **Enrollment:** 5
+**What I learned:** This was my most hands-on experience with B2B marketing. Working inside HubSpot taught me that strategy without execution means nothing — you have to understand the tools well enough to actually build the workflows, not just plan them. Relationships and targeting matter far more than creative alone.
 
-## Fall 2025
+## Marketing Tools
 
-### DASC 5133-01: Intro to Data Science (Lecture)
-
-- **Class Number:** 25351
-- **Days & Time:** Wednesday 9:00 AM - 11:50 AM
-- **Room:** Delta Building 234
-- **Dates:** August 18, 2025 - December 8, 2025
-- **Enrollment:** 19
-
-### DASC 5333-01: Database Systems for Data Science (Lecture)
-
-- **Class Number:** 25353
-- **Days & Time:** Tuesday 9:00 AM - 11:50 AM
-- **Room:** Delta Building D214
-- **Dates:** August 18, 2025 - December 8, 2025
-- **Enrollment:** 13
-
-### DASC 5431-01: Data Ana. & Mach. Learning (Lecture)
-
-- **Class Number:** 25355
-- **Days & Time:** Wednesday 4:00 PM - 6:50 PM
-- **Room:** Delta Building D214
-- **Dates:** August 18, 2025 - December 8, 2025
-- **Enrollment:** 4
-
-## Teaching Areas
-
-- Data science
-- Machine learning
-- Data visualization
-- Database systems
-- Research topics in data science
-
-## Note
-
-Teaching schedules may change based on departmental planning and university updates.
+- **Content & Design:** Canva
+- **Marketing & Advertising:** Google Ads, Facebook Ads, TikTok Ads
+- **Marketing Automation:** HubSpot (email workflows, lead nurturing), Squarespace, Sprout Social, Social Pilot, Zoho
+- **Analytics & Reporting:** Google Analytics, Python, SQL, Tableau, ZoomInfo
