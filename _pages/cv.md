@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-📍 Houston, TX &nbsp;|&nbsp; ✉️ [chauivy22@gmail.com](mailto:chauivy22@gmail.com) 4 &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/chauivy-ngo/)
-
 ## Education
 
 **University of Houston-Clear Lake**, Clear Lake, TX — *August 2024 – December 2026*
@@ -20,6 +16,12 @@ Master of Data Science
 Bachelor of Business Administration in Marketing | GPA: 3.5/4.0
 
 ## Professional Experience
+
+**Marketing Intern, Smarter HR Solutions** — Houston, TX — *[July 2026] – [Current]*
+- Led a digital rebrand across Instagram, Facebook, LinkedIn, and Linktree, refreshing visual identity and improving content consistency and discoverability.
+- Created a content mix of static posts, carousels, and reels — including case studies, team spotlights, and HR tip content — to build engagement and brand credibility.
+- Assisted in planning, recording, editing, and publishing episodes of the company's *Behind the Handbook* leadership podcast.
+- Grew Instagram followers by 400% and content interaction by 6,800%, and increased LinkedIn impressions by 313%, over a six-week period.
 
 **Marketing Intern, BlueByrd** — Houston, TX — *June 2025 – March 2026*
 - Developed and executed LinkedIn content strategy including copywriting, visual design, and scheduling to ensure consistent brand messaging and measurable audience engagement across campaign cycles.
