@@ -7,7 +7,7 @@ author_profile: true
 
 Built a logistic regression classification model on 56 U.S. energy-sector M&A deals (2005–2024), using pre-deal financial data collected from the SEC EDGAR XBRL API to predict whether acquisitions create or destroy shareholder value. Applied the model to four unseen Houston-area acquisitions as a real-world case study.
 
-[Energy M&A Analytics Report (PDF)](https://github.com/chauivy22-spec/chauivy22-spec.github.io/blob/master/files/Team3_MA_Report%20(1).pdf)
+[Energy M&A Analytics Report (PDF)](https://chauivy22-spec.github.io/files/Team3_MA_Report%20(1).pdf)
 
 #### Key Insights
 
