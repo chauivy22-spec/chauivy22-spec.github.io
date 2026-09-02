@@ -5,8 +5,6 @@ author_profile: true
 ---
 ## Project 3: Energy Sector M&A — Predicting Shareholder Value
 
-**Course Project | Financial Analytics | Python (scikit-learn) | Team Project**
-
 Built a logistic regression classification model on 56 U.S. energy-sector M&A deals (2005–2024), using pre-deal financial data collected from the SEC EDGAR XBRL API to predict whether acquisitions create or destroy shareholder value. Applied the model to four unseen Houston-area acquisitions as a real-world case study.
 
 #### Key Insights
@@ -28,8 +26,6 @@ Built a logistic regression classification model on 56 U.S. energy-sector M&A de
 - Cross-Validation & Model Evaluation (ROC-AUC, Confusion Matrix, Classification Report)
 
 ## Project 2: Bank Marketing Campaign — Term Deposit Prediction
-
-**Course Project | Machine Learning | Python (scikit-learn, LightGBM) | Team Project**
 
 Built a leakage-controlled classification pipeline using the UCI Bank Marketing dataset (45,211 customers) to predict term deposit subscriptions and support data-driven marketing targeting. Compared Logistic Regression, Decision Tree, Random Forest, and LightGBM using stratified cross-validation and an ablation study to evaluate real-world deployment feasibility.
 
@@ -53,8 +49,6 @@ Built a leakage-controlled classification pipeline using the UCI Bank Marketing 
 - Probability Calibration
 
 ## Project 1: Game Market Pulse — Visualizing Video Game Sales, Genre Trends, and Critical Reception (1980–2024)
-
-**Course Project | DASC 5231 – Data Visualization | Tableau | Team Project**
 
 Analyzed ~18,000 video game titles released between 1980–2024 to explore trends in sales, genres, publishers, and critic reception. Built an interactive Tableau dashboard with linked filters to compare market performance across decades.
 
