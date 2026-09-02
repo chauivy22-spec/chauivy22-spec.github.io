@@ -31,8 +31,8 @@ Built a logistic regression classification model on 56 U.S. energy-sector M&A de
 
 Built a leakage-controlled classification pipeline using the UCI Bank Marketing dataset (45,211 customers) to predict term deposit subscriptions and support data-driven marketing targeting. Compared Logistic Regression, Decision Tree, Random Forest, and LightGBM using stratified cross-validation and an ablation study to evaluate real-world deployment feasibility.
 
-[Bank Term Deposit Prediction Report (PDF)](https://github.com/chauivy22-spec/chauivy22-spec.github.io/blob/master/files/DA_Bank_Term_Deposit_Final_Report.pdf)
-[HTML Code](https://github.com/chauivy22-spec/chauivy22-spec.github.io/blob/master/files/DASC%205431%20final%20project.html)
+[Bank Term Deposit Prediction Report (PDF)](https://chauivy22-spec.github.io/files/DA_Bank_Term_Deposit_Final_Report.pdf)
+[HTML Code](https://chauivy22-spec.github.io/files/DASC%205431%20final%20project.html)
 
 #### Key Insights
 
@@ -57,7 +57,7 @@ Built a leakage-controlled classification pipeline using the UCI Bank Marketing 
 
 Analyzed ~18,000 video game titles released between 1980–2024 to explore trends in sales, genres, publishers, and critic reception. Built an interactive Tableau dashboard with linked filters to compare market performance across decades.
 
-[DASC 5231 Visualization Final Paper (PDF)](https://github.com/chauivy22-spec/chauivy22-spec.github.io/blob/master/files/DASC%205231%20Visualization%20Final%20Paper%20(1).pdf)
+[DASC 5231 Visualization Final Paper (PDF)](https://chauivy22-spec.github.io/files/DASC%205231%20Visualization%20Final%20Paper%20(1).pdf)
 
 ### Key Insights
 - Identified **2005–2010 as a “Golden Age”** of physical game sales during the Wii/PS3/Xbox 360 era.
