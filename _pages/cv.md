@@ -17,7 +17,7 @@ Bachelor of Business Administration in Marketing | GPA: 3.5/4.0
 
 ## Professional Experience
 
-**Marketing Intern, Smarter HR Solutions** — Houston, TX — *[July 2026] – [Current]*
+**Marketing Intern, Smarter HR Solutions** — Houston, TX — *July 2026 – August 2026*
 - Led a digital rebrand across Instagram, Facebook, LinkedIn, and Linktree, refreshing visual identity and improving content consistency and discoverability.
 - Created a content mix of static posts, carousels, and reels — including case studies, team spotlights, and HR tip content — to build engagement and brand credibility.
 - Assisted in planning, recording, editing, and publishing episodes of the company's *Behind the Handbook* leadership podcast.
@@ -46,6 +46,6 @@ Bachelor of Business Administration in Marketing | GPA: 3.5/4.0
 
 - **Analytics & Reporting:** Google Analytics, Python, SQL, Tableau, ZoomInfo
 - **Marketing & Advertising:** Google Ads, Facebook Ads, TikTok Ads
-- **Marketing Automation:** HubSpot (email automation, lead nurturing), Squarespace, Sprout Social, Social Pilot
+- **Marketing Automation:** HubSpot (email automation, lead nurturing), Squarespace, Sprout Social, Social Pilot, Zoho
 - **Content & Design:** Canva, copywriting, social media content (LinkedIn, Instagram, Facebook)
 - **Productivity & PM:** Microsoft Word, Excel, PowerPoint, Teams, Asana
