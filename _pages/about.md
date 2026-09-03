@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# 👋 About Me
 
 I am a **Master of Data Science student at the University of Houston-Clear Lake** with a **BBA in Marketing from Loyola University Chicago**. My academic and professional background combines marketing, analytics, and data science, giving me a multidisciplinary perspective on how data can be used to understand customers, evaluate performance, and solve business problems.
 
